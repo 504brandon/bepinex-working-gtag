@@ -1,0 +1,20 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - Gorilla Tag (4/13/2024 10:09:13 PM)
+[Info   :   BepInEx] Running under Unity v2022.3.2.14108471
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Warning:   BepInEx] Skipping over type [SillyMenu.Classes.RigManager] as no metadata attribute is specified
+[Info   :   BepInEx] 2 plugins to load
+[Warning:   BepInEx] Plugin [silly menu 1.2.0] targets a wrong version of BepInEx (5.4.23.1) and might not work until you update
+[Warning:   BepInEx] Plugin [NotificationLibrary 1.0.5] targets a wrong version of BepInEx (5.4.23.1) and might not work until you update
+[Info   :   BepInEx] Loading [silly menu 1.2.0]
+[Info   :   BepInEx] Loading [NotificationLibrary 1.0.5]
+[Info   :NotificationLibrary] Plugin NotificationLibrary is loaded!
+[Message:   BepInEx] Chainloader startup complete
